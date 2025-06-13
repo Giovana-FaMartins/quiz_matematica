@@ -1,3 +1,6 @@
+# NOME:
+# Gustavo Campos Souza
+# Giovana Fernandes Alves Martins
 import math
 import os
 
